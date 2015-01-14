@@ -2,7 +2,7 @@
 markdown:         redcarpet
 pygments:         true
 
-baseurl:          'http://jbranchaud.github.io/splitting-atoms'
+baseurl:          '/splitting-atoms'
 
 # Permalinks
 #permalink:        pretty
